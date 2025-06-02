@@ -1,0 +1,51 @@
+h1 {
+  font-size: 2em;
+  color: #35383b;
+  text-align: center;
+  margin-top: 20px;
+  font-family: cursive;
+  background-color: darkgray;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+h2 {
+  font-family: Helvetica;
+}
+
+h3 {
+  font-family: Helvetica;
+}
+
+p {
+  font-family: cursive, sans-serif;
+  font-size: 1.2em;
+  color: #333;
+  line-height: 1.5;
+}
+
+li {
+  font-family: Helvetica;
+  font-size: 1.2em;
+  color: #333;
+  line-height: 1.5;
+}
+
+body {
+  background-color: khaki;
+}
+
+img {
+  border-radius: 10px;
+}
+
+.classbutton {
+  border-radius: 10px;
+  border: 20x solid #000000;
+  cursor: pointer;
+}
+
+.classbutton2 {
+  border-radius: 10px;
+  cursor: pointer;
+}
